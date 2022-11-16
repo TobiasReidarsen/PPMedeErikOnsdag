@@ -11,5 +11,6 @@ Main();
 static void Main()
 {
     var arena = new Arena();
-    arena.SayName();
+    //arena.SayName();
+    arena.fight();
 }

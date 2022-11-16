@@ -2,7 +2,7 @@
 {
     internal class BossClass : FighterClass
     {
-        public BossClass(string name, int a, int b, int c) : base(name, a, b, c)
+        public BossClass(string name, int a, int b, int c, int d) : base(name, a, b, c, d)
         {
 
         }

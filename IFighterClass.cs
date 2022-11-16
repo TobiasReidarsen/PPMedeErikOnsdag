@@ -3,6 +3,6 @@
     internal interface IFighterClass
     {
         public void SayName();
-        public void fight();
+        public void fight(FighterClass opponent);
     }
 }
